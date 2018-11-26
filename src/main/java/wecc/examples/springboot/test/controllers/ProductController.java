@@ -19,6 +19,8 @@ public class ProductController {
         this.products = products;
     }
 
+    kasjdlaksjdlaksjd
+
     @GetMapping("/products")
     @ResponseStatus(HttpStatus.OK)
     public List<Product> products() {
